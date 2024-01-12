@@ -27,7 +27,7 @@ Select the corresponding JSON files you've downloaded.
 
 ## Sample Configuration (reviews.py)
 
-```bash
+```python
 gameDict = {
     "Shadow Tactics": 418240,
     "Desperados 3": 610370,
