@@ -34,3 +34,7 @@ gameDict = {
     "Shadow Gambit": 1545560
 }
 ```
+Feel free to customize the gameDict with the games you are interested in.
+You can find the corresponding Steam IDs on https://steamdb.info/ on the page of your game.
+
+Have fun!
